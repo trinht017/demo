@@ -5,4 +5,4 @@ Resources:
   createS3:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: #{s3-bucket}
+      BucketName: '#{s3-bucket}'
