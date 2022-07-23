@@ -7,3 +7,4 @@ Resources:
     Properties:
       BucketName: '#{s3-bucket}'
 # hello test to see if TeamCity build triggers
+#afifjawofjawifjwia
