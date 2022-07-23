@@ -6,4 +6,4 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: '#{s3-bucket}'
-#test V28
+#test V29
